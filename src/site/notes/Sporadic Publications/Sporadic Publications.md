@@ -20,7 +20,7 @@ If you prefer to own your books you will also be able to visit the [[Sporadic Bo
 ### [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]
 A collection of roughly 40 essays that are directed toward giving attention to simple things that are often overlooked. It contains series of vivid observations regarding our world, our experiences, our minds, and ourselves.
 I wrote these over the course of 2025 and am fairly proud of what I’ve written. Once finished this will be my first piece of writing that I will make available for others to read.
-**Progress**: Beginning publication, mostly written as of June 2025. Full publication is definite by end of year, probably in the next couple months.
+**Progress**: Beginning publication, mostly written as of June 2025. Full publication is definite by end of year, probably in the next couple months. I will do my best not to eat those words.
 ### <u>Daylight By A Thousand Stars</u>
 An Existentialist Fantasy novel that I started in high school. 
 Will I ever actually publish it? 

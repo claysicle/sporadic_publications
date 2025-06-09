@@ -15,7 +15,7 @@ As of writing this, I am 21. I spend a decent chunk of my time at home, and have
 - My username is a portmanteau of ‘Clayton’ and ‘Sickler’, which is my real name.
 - I probably overuse alliteration, but I like it too much to stop.
 - I like the videogame Factorio. I’ll be going on 600 in-game hours very soon, and I regret none of them.
-- If you bring this website up to me in real life I will either be happy to talk about it or I will be tempted to commit a large variety of crimes against you. Results may vary.
+- If you bring this website up to me irl I will either be happy to talk about it or I will be tempted to commit a large variety of crimes against you. Results may vary.
 
 ## Index of Works
 

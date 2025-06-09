@@ -5,7 +5,7 @@
 
 
 ## About
-Chief (only) Editor of [[Sporadic Publications/Sporadic Publications\|Sporadic Publications]].
+Chief (only) Editor of [[Sporadic Publications/Sporadic Publications\|Sporadic Publications]] (not a real company).
 As of writing this, I am 21. I spend a decent chunk of my time at home and have been writing regularly since high school. I am inspired most potently by a grab-bag of writers such as [[Emerson\|Emerson]], [[Twain\|Twain]], [[CS Lewis\|CS Lewis]], [[Phillip K Dick\|Phillip K Dick]] and [[Ray Bradbury\|Ray Bradbury]]. A large spread of stylistic influences are blended together in a (hopefully) harmonious manner throughout my work.
  
  If you’re reading this you probably know me, and you probably think I’ve finally lost it. Because I’m writing it - you’re probably right.

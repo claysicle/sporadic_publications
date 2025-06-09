@@ -5,8 +5,6 @@
 > *In [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]*
 
 - [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Introduction\|Introduction]] 
-	- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/This Collection's Aspirations\|This Collection's Aspirations]]
-	- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/What Is An Invisibility\|What Is An Invisibility]]
 - [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Invisibilities Of People\|Invisibilities Of People]]
 	- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Virtue\|Virtue]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Peacefulness\|Peacefulness]]

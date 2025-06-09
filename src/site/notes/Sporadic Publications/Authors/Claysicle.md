@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/sporadic-publications/authors/claysicle/"}
+{"dg-publish":true,"permalink":"/Sporadic Publications/Authors/Claysicle/"}
 ---
 
 
 
 # About
-
-I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. If you’re reading this you probably know me, and you probably think I’ve finally lost it (or you would prefer if I just wrote a blog like a normal person).
+ If you’re reading this you probably know me, and you probably think I’ve finally lost it. Because I’m writing it - you’re probably right.
 
 # My Inspirations
 
@@ -15,14 +14,15 @@ Inspired most potently by a grab-bag of writers such as [[Emerson\|Emerson]], [[
 # Fun Facts
 
 - My username is a portmanteau of ‘Clayton’ and ‘Sickler’, which is my real name.
-- I probably overuse alliteration, but just like it way too much – the same is true with the em-dash.
-- I like the videogame Factorio – a lot. I’ll be going on 600 in-game hours very soon, and I regret none of them.
+- I probably overuse alliteration, but I like it too much to stop.
+- I like the videogame Factorio. I’ll be going on 600 in-game hours very soon, and I regret none of them.
 - If you bring this project up to me in real life I will either be happy to talk about it or I will be tempted to commit a large variety of crimes against you. Results may vary.
 
 # Index of Works
 
 In progress:
 - [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]
+- Daylight By A Thousand Stars
 
 Complete:
 [empty list]

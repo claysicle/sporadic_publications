@@ -38,6 +38,3 @@ Enjoy,
 
 <div class="page-break" style="page-break-before: always;"></div>
 
-
-<div class="page-break" style="page-break-before: always;"></div>
-

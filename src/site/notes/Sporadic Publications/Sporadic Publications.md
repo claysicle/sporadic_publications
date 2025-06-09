@@ -6,10 +6,8 @@
 ## Welcome to Sporadic Publications!
 
 
-	This is a site that I have made for publishing my own work. 
+This is a site that I have made for publishing my own work. I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 [[Sporadic Publications/Sporadic Publications\|Sporadic Publications]] is can be roughly organized into various collections, which will be presented herewithin. 
-Non-Collection Essays are excluded from this list, but can be found at [[Sporadic Publications/Navigation/Assorted Works\|Assorted Works]]
-
 # Collection One: [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]
 
 - [[#Introduction|Introduction]]
@@ -59,8 +57,13 @@ Non-Collection Essays are excluded from this list, but can be found at [[Sporadi
 		- [[#Concepts#God|God]]
 - [[#Conclusion|Conclusion]]
 
-# Collection Two: <u>Poetry For Pondering</u>
+# Collection Two: <u>Poetry for Pondering</u>
 
+[no content yet]
+# Collection Three: <u>Short Stories</u>
+[no content yet]
+# My Novel: <u>Daylight By A Thousand Stars</u>
+[no content yet]
 
 <div class="page-break" style="page-break-before: always;"></div>
 

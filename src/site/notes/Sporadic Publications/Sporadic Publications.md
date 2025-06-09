@@ -22,12 +22,12 @@ A collection of roughly 40 essays that are directed toward giving attention to s
 I wrote these over the course of 2025 and am fairly proud of what I’ve written. Once finished this will be my first piece of writing that I will make available for others to read.
 
 ### <u>Daylight By A Thousand Stars</u>
-An existentialist fantasy novel that I started in high school. 
+An Existentialist Fantasy novel that I started in high school. 
 Will I ever actually publish it? 
 …Maybe.
 
 ### <u>The Aspirations of Apollo Carver</u>
-[no content yet]
+Another novel, thematically Moralistic. The story centers on the life of a man who aspires to be the best that he can be despite a series of deeply harrowing life events.
 
 ### <u>Assorted Poetry</u>
 [no content yet] 

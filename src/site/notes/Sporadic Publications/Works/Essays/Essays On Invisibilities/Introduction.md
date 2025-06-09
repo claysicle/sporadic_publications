@@ -34,7 +34,7 @@ These sorts of Invisibilities appear to initially be much greater in importance 
 I am writing these essays specifically regarding those Invisibilities that I find to be most naturally provocative of thought or reflection in my own subjective frame. There are of course limitless Invisibilities that abound, swirling about one’s head like spirits set loose in every moment of every day, so what follows are simply those spectres whom I have managed to capture just enough that I may put them on display. Now without further ado I will give way to the collection, which you may peruse as you please.
 
 Enjoy,
->Clayton
+>Claysicle
 
 <div class="page-break" style="page-break-before: always;"></div>
 

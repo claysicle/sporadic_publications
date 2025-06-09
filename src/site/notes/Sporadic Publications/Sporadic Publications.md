@@ -9,7 +9,11 @@ I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]].
 
 [[Sporadic Publications/This Website\|This Website]] is a library of my written work. 
 If you’d like, take something off the shelf (no library card needed).
-## [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]
+
+
+# The Library
+
+### [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]
 A series of roughly 40 essays that are directed toward giving attention to simple things that are often overlooked. 
 I wrote these over the course of 2025 and am fairly proud of what I’ve written. Once finished, this will be my first piece of writing that I will make available for others to read.
 

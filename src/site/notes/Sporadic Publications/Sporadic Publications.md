@@ -6,4 +6,4 @@
 ## Welcome to Sporadic Publications!
 
 
-…that’s all for now.
+This is a site that I have made for publishing my own work. Check out the sidebar!

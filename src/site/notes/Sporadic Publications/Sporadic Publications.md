@@ -23,7 +23,8 @@ I wrote these over the course of 2025 and am fairly proud of what I’ve written
 
 ### <u>Daylight By A Thousand Stars</u>
 An existentialist fantasy novel that I started in high school. 
-Will I ever actually publish it? Maybe.
+Will I ever actually publish it? 
+…Maybe.
 
 ### <u>Poetry for Pondering</u>
 [no content yet] 

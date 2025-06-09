@@ -30,5 +30,7 @@ I wrote these over the course of 2025 and am fairly proud of what I’ve written
 An existentialist fantasy novel that I started in high school. 
 Will I ever actually publish it? Maybe.
 
+### <u>The Adventures of Jack Adirondack</u>
+[no content yet]
 <div class="page-break" style="page-break-before: always;"></div>
 

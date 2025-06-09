@@ -15,8 +15,28 @@ To write an essay on anything requires thoughtful consideration of said thing. T
 
 Put more simply: I hope that you enjoy what follows, I hope to enjoy writing it, and I hope that we can each come away from this collection having made our minds and our worlds a brighter and more vivid reality as a result.
 
-<div class="page-break" style="page-break-before: always;"></div>
+## What is an Invisibility?
 
+To answer the question quite quickly:
+A thing seen but not thought of, or a thing thought of that is rarely (if ever) seen.
+
+To answer the musing more measuredly:
+An Invisibility is not something that is strictly speaking ‘not visible’, although it sometimes really is. What I am speaking of when I use the word Invisibility is that element of perception that can only be accessed when you are really and truly ‘paying attention’. 
+‘Paying attention to what?’ you may ask.
+Well broadly speaking, anything will do. A pencil, let’s say. 
+
+When observed there will first be that which is obvious of the pencil, that which sits right up there on the surface ready to be seen – but there is also that about the pencil that exists just under that surface. The pencil has a past. It has particular feeling when held in the hand. It has a taste. Are you aware of these things? It is my hope to bring awareness to such details.
+
+There is of course another kind of Invisibility that I will be writing of, and this is obvious to those who have taken the liberty to have read the Table of Contents (although I have heard that some prefer not to, and thusly respect their wishes). The other type of Invisibility is that object who would only appear when you are paying close attention; that is, an object who does not have any surface level appearance, and isn’t strictly speaking ‘an object’ at all. The Virtues as an example cannot be strictly ‘seen’ - but they very much exist to those who desire to look for them. Another common example used is love, a thing that cannot be pointed to but very much exists and can be observed.
+
+These sorts of Invisibilities appear to initially be much greater in importance than simple objects, but it is my aim to elevate simple objects to the conceptual and to make the conceptual tactile. I strive to think of all things as equal expressions of the divine and thus ideally worthy of equal attention, and in the end only wish that I could write as many proofs of this principle as possible. Alas my time is limited (as is my dedication) and so this will only be so long.
+
+I am writing these essays specifically regarding those Invisibilities that I find to be most naturally provocative of thought or reflection in my own subjective frame. There are of course limitless Invisibilities that abound, swirling about one’s head like spirits set loose in every moment of every day, so what follows are simply those spectres whom I have managed to capture just enough that I may put them on display. Now without further ado I will give way to the collection, which you may peruse as you please.
+
+Enjoy,
+>Clayton
+
+<div class="page-break" style="page-break-before: always;"></div>
 
 
 <div class="page-break" style="page-break-before: always;"></div>

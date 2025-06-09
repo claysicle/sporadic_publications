@@ -9,8 +9,7 @@
 
 # My Inspirations
 
-Inspired most potently by a grab-bag of writers such as [[Emerson\|Emerson]], [[Twain\|Twain]], [[CS Lewis\|CS Lewis]], and [[Ray Bradbury\|Ray Bradbury]], a large spread of stylistic influences are blended together in a (hopefully) harmonious manner throughout my work. I will write about pretty much anything I want – it is my own publication, after all.
-
+Inspired most potently by a grab-bag of writers such as [[Emerson\|Emerson]], [[Twain\|Twain]], [[CS Lewis\|CS Lewis]], and [[Ray Bradbury\|Ray Bradbury]], a large spread of stylistic influences are blended together in a (hopefully) harmonious manner throughout my work.
 # Fun Facts
 
 - My username is a portmanteau of ‘Clayton’ and ‘Sickler’, which is my real name.

@@ -7,6 +7,7 @@
 *“Once I planned to write a book of poems entirely about things in my pockets. But I found it would be too long; and the age of the great epics is past.”*
 **~ GK Chesterton**
 
+[[Sporadic Publications/Works/Essays/Essays On Invisibilities/Table Of Contents\|Table Of Contents]]
 
 <div class="page-break" style="page-break-before: always;"></div>
 

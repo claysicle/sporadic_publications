@@ -7,12 +7,13 @@
 
 I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 
-[[Sporadic Publications/This Website\|This Website]] is a library of my written work. 
-
+[[Sporadic Publications/This Website\|This Website]] is a free digital library of my written work. 
 If you’d like, take something off the shelf (no library card needed).
 
 If you prefer to own your books you will also be able to visit the [[Sporadic Bookstore\|Sporadic Bookstore]] in the near future. 
-If you really, *really* need this right now, email me: claysick22@gmail.com
+
+If you *really* need something, email me here:
+SporadicPublications@gmail.com
 
 --- 
 

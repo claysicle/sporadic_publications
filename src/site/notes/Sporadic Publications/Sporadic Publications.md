@@ -7,8 +7,7 @@
 
 I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 
-[[Sporadic Publications/This Website\|This Website]] is a free digital library of my written work. 
-If you’d like, take something off the shelf (no library card needed).
+[[Sporadic Publications/This Website\|This Website]] is a free digital library of my written work (no library card needed).
 
 If you prefer to own your books you will also be able to visit the [[Sporadic Bookstore\|Sporadic Bookstore]] in the near future. 
 

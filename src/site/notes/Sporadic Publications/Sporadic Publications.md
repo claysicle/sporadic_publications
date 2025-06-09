@@ -6,7 +6,7 @@
 ## Welcome to Sporadic Publications!
 
 I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
-[[Sporadic Publications/This Website\|This Website]] is a personal library of my written work. 
+[[Sporadic Publications/This Website\|This Website]] is a library of my written work. 
 If you’d like, take something off the shelf (no library card needed).
 # [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]
 A series of roughly 40 essays that are directed toward giving attention to simple things that are often overlooked. 

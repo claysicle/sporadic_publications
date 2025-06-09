@@ -30,9 +30,8 @@ Will I ever actually publish it? Maybe.
 ### <u>Short Stories</u>
 [no content yet]
 
-
-
 ### <u>The Adventures of Jack Adirondack</u>
 [no content yet]
+
 <div class="page-break" style="page-break-before: always;"></div>
 

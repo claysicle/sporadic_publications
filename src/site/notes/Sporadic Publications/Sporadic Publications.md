@@ -26,14 +26,15 @@ An existentialist fantasy novel that I started in high school.
 Will I ever actually publish it? 
 …Maybe.
 
-### <u>Poetry for Pondering</u>
+### <u>The Aspirations of Apollo Carver</u>
+[no content yet]
+
+### <u>Assorted Poetry</u>
 [no content yet] 
 
 ### <u>Short Stories</u>
 [no content yet]
 
-### <u>The Adventures of Jack Adirondack</u>
-[no content yet]
 
 <div class="page-break" style="page-break-before: always;"></div>
 

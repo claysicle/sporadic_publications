@@ -28,7 +28,7 @@ Will I ever actually publish it?
 **Progress**: Getting there. Probably going to be a bigger focus in 2026.
 ### <u>The Aspirations of Apollo Carver</u>
 Another novel, thematically Moralistic. The story centers on a man who aspires to be the best that he can be despite facing a series of deeply harrowing life events. 
-	**Progress**: This is nowhere near being finished , and by the time I get to it I may find it completely uninteresting. That being said, I currently look forward to writing it.
+	**Progress**: This is nowhere near being finished and by the time I get to it I may find it completely uninteresting. That being said, I currently look forward to writing it.
 
 ### <u>Assorted Poetry</u>
 [no content yet] 

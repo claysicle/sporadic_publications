@@ -9,7 +9,7 @@
 **~ GK Chesterton**
 
 --- 
-Next up:
+Next Up:
 [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Table Of Contents\|Table Of Contents]]
 <div class="page-break" style="page-break-before: always;"></div>
 

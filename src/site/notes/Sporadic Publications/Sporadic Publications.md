@@ -6,7 +6,7 @@
 ## Welcome to Sporadic Publications!
 
 
-This is a site that I have made for publishing my own work. I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
+This is a site that I have made for publishing my written work. I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 [[Sporadic Publications/Sporadic Publications\|Sporadic Publications]] is can be roughly organized into various collections, which will be presented herewithin. 
 # Collection One: [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]
 

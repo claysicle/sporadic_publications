@@ -6,9 +6,9 @@
 ## Welcome to Sporadic Publications!
 
 
-This is a site that I have made for publishing my own work. 
+	This is a site that I have made for publishing my own work. 
 [[Sporadic Publications/Sporadic Publications\|Sporadic Publications]] is can be roughly organized into various collections, which will be presented herewithin. 
-Non-Collection Essays are excluded from this list, but can be found here: [[Sporadic Publications/Navigation/Assorted Works\|Assorted Works]]
+Non-Collection Essays are excluded from this list, but can be found at [[Sporadic Publications/Navigation/Assorted Works\|Assorted Works]]
 
 # Collection One: [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]
 

@@ -28,7 +28,7 @@ Will I ever actually publish it?
 
 ### <u>The Aspirations of Apollo Carver</u>
 Another novel, thematically Moralistic. The story centers on a man who aspires to be the best that he can be despite facing a series of deeply harrowing life events. 
-This is nowhere near being finished, but its something to look forward to. 
+This is nowhere near being finished but its something I look forward to writing, so it might motivate me to finish some other things in order to be able to work on it. 
 
 ### <u>Assorted Poetry</u>
 [no content yet] 

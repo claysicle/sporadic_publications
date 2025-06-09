@@ -37,7 +37,7 @@
 	- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Materials\|Materials]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Dirt\|Dirt]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Concrete\|Concrete]]
-		- - [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Glass\|Glass]]
+		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Glass\|Glass]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Plastic\|Plastic]]
 	- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Nature\|Nature]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Fish\|Fish]]

@@ -27,7 +27,7 @@ Will I ever actually publish it?
 …Maybe.
 
 ### <u>The Aspirations of Apollo Carver</u>
-Another novel, thematically Moralistic. The story centers on the life of a man who aspires to be the best that he can be, despite facing a series of deeply harrowing life events.
+Another novel, thematically Moralistic. The story centers on a man who aspires to be the best that he can be, despite facing a series of deeply harrowing life events.
 
 ### <u>Assorted Poetry</u>
 [no content yet] 

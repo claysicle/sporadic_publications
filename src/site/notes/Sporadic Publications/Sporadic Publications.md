@@ -11,7 +11,7 @@ I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]].
 
 If you’d like, take something off the shelf (no library card needed).
 
-If you prefer to own your books, you will also be able to visit the [[Sporadic Bookstore\|Sporadic Bookstore]] in the near future.
+If you prefer to own your books you will also be able to visit the [[Sporadic Bookstore\|Sporadic Bookstore]] in the near future.
 
 --- 
 
@@ -28,7 +28,7 @@ Will I ever actually publish it?
 **Progress**: Getting there. Probably going to be a bigger focus in 2026.
 ### <u>The Aspirations of Apollo Carver</u>
 Another novel, thematically Moralistic. The story centers on a man who aspires to be the best that he can be despite facing a series of deeply harrowing life events. 
-**Progress**: This is nowhere near being finished, and by the time I get to it I may find it completely uninteresting.
+	**Progress**: This is nowhere near being finished , and by the time I get to it I may find it completely uninteresting.
 
 ### <u>Assorted Poetry</u>
 [no content yet] 

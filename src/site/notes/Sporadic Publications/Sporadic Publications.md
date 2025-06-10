@@ -32,7 +32,8 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 	**Progress**: This is nowhere near being finished and by the time I get to it I may find it completely uninteresting. That being said, I currently look forward to writing it.
 
 ### <u>Assorted Poetry</u>
-[no content yet] 
+[[Notes/Periodic Notes/unique notes/The Unsaid\|The Unsaid]]
+
 
 ### <u>Short Stories</u>
 [no content yet]

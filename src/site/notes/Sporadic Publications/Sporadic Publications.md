@@ -7,7 +7,7 @@
 
 I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 
-[[Sporadic Publications/This Website\|This Website]] is a free digital library of my written work (no library card needed).
+[[Sporadic Publications/This Website\|This Website]] is a <font color="#4f81bd">free digital library</font> of my written work (no library card needed).
 
 If you prefer to own your books you will also be able to visit the [[Sporadic Bookstore\|Sporadic Bookstore]] in the near future. 
 
@@ -22,11 +22,13 @@ SporadicPublications@gmail.com
 A collection of roughly 40 essays that are directed toward giving attention to simple things that are often overlooked. It contains series of vivid observations regarding our world, our experiences, our minds, and ourselves.
 I wrote these over the course of 2025 and am fairly proud of what I’ve written. Once finished this will be my first piece of writing that I will make available for others to read.
 **Progress**: Beginning publication, mostly written as of June 2025. Full publication is definite by end of year, probably in the next couple months. I will do my best not to eat those words.
+
 ### <u>Daylight By A Thousand Stars</u>
 An Existentialist Fantasy novel that I started in high school. 
 Will I ever actually publish it? 
 …Maybe.
 **Progress**: Getting there. Probably going to be a bigger focus in 2026.
+
 ### <u>The Aspirations of Apollo Carver</u>
 Another novel, thematically Moralistic. The story centers on a man who aspires to be the best that he can be despite facing a series of deeply harrowing life events. 
 	**Progress**: This is nowhere near being finished and by the time I get to it I may find it completely uninteresting. That being said, I currently look forward to writing it.

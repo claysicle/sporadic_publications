@@ -3,7 +3,7 @@
 ---
 
 
-![mah_face.jpeg](/img/user/The%20Monogild/mah_face.jpeg)
+
 ## About
 Chief (only) Editor of [[Sporadic Publications/Sporadic Publications\|Sporadic Publications]] (not a real company).
 As of writing this, I am 21. I spend a decent chunk of my time at home and have been writing regularly since high school, although I knew how to write even before then if you can believe it. I am inspired most potently by a grab-bag of writers such as [[Emerson\|Emerson]], [[Twain\|Twain]], [[CS Lewis\|CS Lewis]], [[Phillip K Dick\|Phillip K Dick]] and [[Ray Bradbury\|Ray Bradbury]]. A large spread of stylistic influences are blended together in a (hopefully) harmonious manner throughout my work.
@@ -25,3 +25,6 @@ In progress:
 
 Complete:
 [empty list]
+
+
+![mah_face.jpeg](/img/user/The%20Monogild/mah_face.jpeg)

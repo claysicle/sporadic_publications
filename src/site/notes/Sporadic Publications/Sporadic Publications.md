@@ -36,11 +36,10 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 ### <u>Assorted Poetry</u>
 [[Notes/Periodic Notes/unique notes/The Unsaid\|The Unsaid]]
 [[Notes/Periodic Notes/unique notes/The Man Who Sets The Anchor Firm\|The Man Who Sets The Anchor Firm]]
-
+[[Godfull\|Godfull]]
 
 ### <u>Short Stories</u>
 [no content yet]
 
 
 <div class="page-break" style="page-break-before: always;"></div>
-

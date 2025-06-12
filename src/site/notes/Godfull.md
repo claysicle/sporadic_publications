@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Godfull/"}
 ---
 
+[[Notes/Periodic Notes/daily notes/2025-06-12\|2025-06-12]]
 
 in every crinkle
 and

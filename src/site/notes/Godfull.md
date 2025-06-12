@@ -22,7 +22,7 @@ you’ve been
 in years.
 
 see God in it all;
-see it again
+see again
 your friend
 is tears.
 

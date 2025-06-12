@@ -5,15 +5,17 @@
 > *In the series on [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Virtue\|Virtue]]*
 
 When I think of strength I am immediately reminded of the story of Samson, likely because of my many years at a most prestigious University whose name was ‘Sunday School’. This is a joke, and I will be making it regularly throughout the following essay. Whenever said joke is noted, I ask of the reader: Please laugh.
+
 For those unfamiliar, the story of Samson it is a biblical story that is accounted for starting around Judges Chapter 13, which reports God’s blessing of a Nephite man named Samson with the gift of great strength. As a boy he beats back lions, lifts massive boulders, and a variety of like tasks. I assume that his parents probably also made him do a disproportionate share of chores. In any case – he grows to become widely respected as a protector of his people and is feared by all his foes. He at one point kills an entire army of thousands with nothing more than ‘the jawbone of an ass’ (that one always got giggles, even from my most serious peers back at the University).
+
 There are two conditions by which God affords Samson his strength: There is a law that he must never cut his hair, and a lesser known law that he mustn’t drink wine. Thus he is made into this sort of Rapunzel-Hulk hybrid of a man who can perform astounding feats of strength, so long as he can stand lugging along his luscious locks, whose smell were probably off-putting due to being grown in an era ‘pre-shampoo’. Bearing that (and being a major buzzkill at wine-tastings) his strength would remain.
 Now on one night, Samson is ‘visiting’ with a woman from an enemy tribe (The Philistines) whom he knows well. After the frisk had subsided, this woman whose name was Delilah asks Samson to reveal his weakness to her. There is a rather funny sequence of events where he fools her time and time again, but eventually he gives in and tells her about his weakness to the great razor. And so she cuts Samson’s hair, relieving him of his strength. She calls out and soldiers come and capture him, and just like that it is the end of Samson’s strength.
+
 Some time later the Philistines are throwing a party. They figure that it is wanting for some entertainment, so they take poor Samson up from whatever hole they were keeping him in and chain him between two pillars, likely casting jests and tomatoes alike in his general direction throughout their feast.
 Little do they know, Samson’s hair grows fairly quickly.
-Samson prays to The Lord to summon whatever strength he has, then pulls as hard as he can.
-The Pillars fall, as do Samson and the Philistines, and that is finally the end of this abbreviated retelling of the tale.
-So then – what does this tell us about strength?
+Samson prays to The Lord to summon whatever strength he has, then pulls as hard as he can. The Pillars fall, as do Samson and the Philistines, and that is finally the end of this abbreviated retelling of the tale.
 
+So then – what does this tell us about strength?
 Well…
 1. It tells us where it comes from, to start.
 2. It tells us how it ought to be used.

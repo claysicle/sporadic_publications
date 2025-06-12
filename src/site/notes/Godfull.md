@@ -8,9 +8,9 @@ in every crinkle
 and
 in every wrinkle.
 
-in every face,
+in every place,
 and
-in every place.
+in every face.
 
 in every digit,
 and

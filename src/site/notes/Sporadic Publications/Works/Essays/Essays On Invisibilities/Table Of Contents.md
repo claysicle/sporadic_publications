@@ -5,7 +5,6 @@
 > *In [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]*
 
 - [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Introduction\|Introduction]] 
-
 - [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Invisibilities Of People\|Invisibilities Of People]]
 	- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Virtue\|Virtue]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Peacefulness\|Peacefulness]]
@@ -27,7 +26,6 @@
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Resting\|Resting]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Smiling\|Smiling]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Helping\|Helping]]
-
 - [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Invisibilities Elsewhere\|Invisibilities Elsewhere]]
 	- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Objects\|Objects]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Clocks\|Clocks]]
@@ -49,7 +47,6 @@
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/The Atom\|The Atom]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/The Soul\|The Soul]]
 		- [[Sporadic Publications/Works/Essays/Essays On Invisibilities/God\|God]]
-
 - [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Conclusion\|Conclusion]]
 
 

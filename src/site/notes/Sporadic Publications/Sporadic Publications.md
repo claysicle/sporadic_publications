@@ -34,9 +34,9 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 	**Progress**: This is nowhere near being finished and by the time I get to it I may find it completely uninteresting. That being said, I currently look forward to writing it.
 
 ### <u>Assorted Poetry</u>
-[[Notes/Periodic Notes/unique notes/The Unsaid\|The Unsaid]]
-[[Notes/Periodic Notes/unique notes/The Man Who Sets The Anchor Firm\|The Man Who Sets The Anchor Firm]]
-[[Godfull\|Godfull]]
+[[Sporadic Publications/Works/Poetry/The Unsaid\|The Unsaid]]
+[[Sporadic Publications/Works/Poetry/The Man Who Sets The Anchor Firm\|The Man Who Sets The Anchor Firm]]
+[[Sporadic Publications/Works/Poetry/Godfull\|Godfull]]
 
 ### <u>Short Stories</u>
 [no content yet]

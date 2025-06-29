@@ -3,6 +3,7 @@
 ---
 
 [[Notes/Periodic Notes/daily notes/2025-05-19\|2025-05-19]]
+
 A decrepit town,
 Rotted stink.
 Gloomy brown,

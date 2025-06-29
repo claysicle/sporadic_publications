@@ -37,7 +37,8 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 [[Sporadic Publications/Works/Poetry/The Unsaid\|The Unsaid]]
 [[Sporadic Publications/Works/Poetry/The Man Who Sets The Anchor Firm\|The Man Who Sets The Anchor Firm]]
 [[Sporadic Publications/Works/Poetry/Godfull\|Godfull]]
-
+[[Sporadic Publications/Works/Poetry/The Town On A Hill\|The Town On A Hill]]
+[[Sporadic Publications/Works/Poetry/Write to Fight\|Write to Fight]]
 ### <u>Short Stories</u>
 [no content yet]
 

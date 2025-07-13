@@ -7,7 +7,7 @@
 
 I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 
-[[Sporadic Publications/This Website\|This Website]] is a <font color="#4f81bd">free digital library</font> of my written work (no library card needed).
+[[Sporadic Publications/This Website\|This Website]] is a free digital library of my written work (no library card needed).
 
 If you prefer to own your books you will also be able to visit the [[Sporadic Bookstore\|Sporadic Bookstore]] in the near future. 
 
@@ -23,7 +23,7 @@ A collection of roughly 40 essays that are directed toward giving attention to s
 I wrote these over the course of 2025 and am fairly proud of what I’ve written. Once finished this will be my first piece of writing that I will make available for others to read.
 **Progress**: Beginning publication, mostly written as of June 2025. Full publication is definite by end of year, probably in the next couple months. I will do my best not to eat those words.
 
-### <u>Daylight By A Thousand Stars</u>
+### [[Written Works/WIP/DBATS/Daylight By A Thousand Stars\|Daylight By A Thousand Stars]]
 An Existentialist Fantasy novel that I started in high school. 
 Will I ever actually publish it? 
 …Maybe.

@@ -5,6 +5,8 @@
 
 ## Welcome to Sporadic Publications!
 
+Links look like [[this\|this]] (but not that one).
+
 I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 
 [[Sporadic Publications/This Website\|This Website]] is a free digital library of my written work (no library card needed).

@@ -5,7 +5,7 @@
 
 ## Welcome to Sporadic Publications!
 
-Links look like [[this\|this]] (but not that one).
+Links look like [[Sporadic Publications/this\|this]].
 
 I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 

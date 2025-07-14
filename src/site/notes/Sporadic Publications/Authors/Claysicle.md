@@ -27,4 +27,7 @@ Complete:
 [empty list]
 
 
+At my mother’s suggestion,
+A picture of myself.
+
 ![mah_face.jpeg](/img/user/The%20Monogild/mah_face.jpeg)

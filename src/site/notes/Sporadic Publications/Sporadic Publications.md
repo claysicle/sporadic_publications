@@ -4,7 +4,7 @@
 
 
 ## Welcome to Sporadic Publications!
-> Created by [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
+> Created by [[Sporadic Publications/Authors/Claysicle\|Claysicle]]
 
 
 [[Sporadic Publications/This Website\|This Website]] is a free digital library of my written work (no library card needed).

@@ -4,16 +4,16 @@
 
 
 ## Welcome to Sporadic Publications!
+> Created by [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 
-Links look like [[Sporadic Publications/this\|this]].
-
-I am [[Sporadic Publications/Authors/Claysicle\|Claysicle]]. 
 
 [[Sporadic Publications/This Website\|This Website]] is a free digital library of my written work (no library card needed).
 
+Links look like [[Sporadic Publications/this\|this]].
+
 If you prefer to own your books you will also be able to visit the [[Sporadic Bookstore\|Sporadic Bookstore]] in the near future. 
 
-If you *really* need something, email me here:
+If you need something, email me here:
 SporadicPublications@gmail.com
 
 --- 
@@ -41,8 +41,10 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 [[Sporadic Publications/Works/Poetry/Godfull\|Godfull]]
 [[Sporadic Publications/Works/Poetry/The Town On A Hill\|The Town On A Hill]]
 [[Sporadic Publications/Works/Poetry/Write to Fight\|Write to Fight]]
+[[Solarity\|Solarity]]
+
 ### <u>Short Stories</u>
-[no content yet]
+[The Polar Man]
 
 
 <div class="page-break" style="page-break-before: always;"></div>

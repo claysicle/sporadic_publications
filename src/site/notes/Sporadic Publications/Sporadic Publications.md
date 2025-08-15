@@ -31,7 +31,7 @@ Will I ever actually publish it?
 …Maybe.
 **Progress**: Getting there. Probably going to be a bigger focus in 2026.
 
-### <u>The Aspirations of Apollo Carver</u>
+### [[Written Works/WIP/The Aspirations of Apollo Carver/The Aspirations Of Apollo Carver\|The Aspirations of Apollo Carver]]
 Another novel, thematically Moralistic. The story centers on a man who aspires to be the best that he can be despite facing a series of deeply harrowing life events. 
 	**Progress**: This is nowhere near being finished and by the time I get to it I may find it completely uninteresting. That being said, I currently look forward to writing it.
 
@@ -44,7 +44,7 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 [[Solarity\|Solarity]]
 
 ### <u>Short Stories</u>
-[The Polar Man]
-
+[[The Polar Man\|The Polar Man]]
+[[Written Works/WIP/The Tweed Twins/The Tweed Twins\|The Tweed Twins]]
 
 <div class="page-break" style="page-break-before: always;"></div>

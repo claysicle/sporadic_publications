@@ -6,8 +6,8 @@
 
 Do you see what I see?
 We are stars, you know.
-And I see solidarity
-in our solarity.
+And I see solidarity,
+here in our solarity.
 
 do you see It?
 do you see It?

@@ -42,7 +42,7 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 [[Sporadic Publications/Works/Poetry/The Town On A Hill\|The Town On A Hill]]
 [[Sporadic Publications/Works/Poetry/Write to Fight\|Write to Fight]]
 [[Solarity\|Solarity]]
-
+[[A Plea For Greatness\|A Plea For Greatness]]
 ### <u>Short Stories</u>
 [[The Polar Man\|The Polar Man]]
 [[Written Works/WIP/The Tweed Twins/The Tweed Twins\|The Tweed Twins]]

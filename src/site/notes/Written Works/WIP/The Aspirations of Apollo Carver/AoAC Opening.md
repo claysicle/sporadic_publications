@@ -21,42 +21,44 @@ divine.
 
 but at what cost?
 Apollo asks,
-is it worth light lost,
-for another flask?
+Is it worth light lost,
+For another flask?
 
 Or is light worth 
-a moment extended
-is the sun a sphere
+A moment extended –
+Is the sun a sphere
 we ought revere?
 
 I find it to be so.
 
 Celestial spheres
-roll overhead,
+sing overhead,
 and Dionysius 
 falls down dead.
 
-The age of Indulgences
+The Age of Indulgences
 overthrown.
-The age of Reason
+The Age of Reason
 finds its home.
 
 Golden light
-beaming down,
+Beaming down,
 Apollo takes
-his rightful crown.
+His rightful crown.
+
+He prays 
+an earnest prayer:
 
 Thy kingdom come,
 Thy will be done.
 On Earth
-as it is 
-in Heaven.
-
+As it is 
+In Heaven.
 So give us this day 
-our daily bread,
-and rid us
-of Dionysian 
-impressions.
+Our daily bread,
+And rid us
+Of Dionysian 
+Impressions.
 
 Next up: 
 [[Written Works/WIP/The Aspirations of Apollo Carver/2025-AoAC\|2025-AoAC]]

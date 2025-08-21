@@ -9,15 +9,15 @@ We are stars, you know.
 And I see solidarity,
 here in our solarity.
 
-do you see It?
-do you see It?
-do you see It? 
-do you see It?
+Do you see It?
+Do you see It?
+Do you see It? 
+Do you see It?
 
-have you felt It?
-do you love Her?
-do you know Him?
-are you one of Them?
+Have you felt It?
+Do you love Her?
+Do you know Him?
+Are you one of Them?
 
 I know I am.
 I know I do.

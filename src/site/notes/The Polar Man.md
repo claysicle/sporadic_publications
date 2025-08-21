@@ -2,12 +2,16 @@
 {"dg-publish":true,"permalink":"/The Polar Man/"}
 ---
 
+# The Polar Man
 
-A windswept landscape of blinding white snow expands unto distant dunes that if not for their pale coloration would suggest that one was in the Mojave Desert. Up behind these powdered hills lies a small igloo. The entrance is simple, requiring that one would crawl to come across the threshold to the insulated inner world contained within.
 
 ---
 
-For those who are curious, the igloo itself was not so much the cartoonish type that you might imagine an outdated depiction of an Eskimo to reside within, but more so a ramshackle of ice and haphazardly packed snow. There was something approximating an attempt at a chimney for venting heat at the top, but the intended hole really came to be more aptly described most simply as a structural fault. The innards of the place were cramped, but despite all flaws they did manage to achieve their ostensible goal of moderate insulation.
+A windswept landscape of blinding white snow expands unto distant dunes that if not for their pale coloration would suggest that one was in the Mojave Desert. Up behind these powdered hills lies a small igloo. The entrance is simple, requiring that one would crawl to come across the threshold to the insulated inner world.
+
+---
+
+For those who are curious, the igloo itself was not so much the cartoonish type that you might imagine an Inuit from the Northern Greenland area to reside within, but was more so a ramshackle of ice and haphazardly packed snow. There was something approximating an attempt at a chimney for venting heat at the top, but the intended hole really came to be more aptly described most simply as a structural fault. The innards of the place were cramped, but despite all flaws they did manage to achieve their ostensible goal of moderate insulation.
 
 ---
 
@@ -19,7 +23,12 @@ There was also a man in this place. The man was cocooned inside of his sleeping 
 
 ---
 
-Some time along, the man awakens with a stiff groan. His eyes slit open ever so slightly so as to keep them from the sting of the cold. He can smell the seal meat, as it has now become a mild stew. He takes a deep breath in through his nose, filling his lungs with fresh oxygenation tinged with the smell of his developing broth. He holds for but a moment and smiles at the filling of his lungs, and while still holding contemplates his meal that is in preparation with great eagerness. He then releases his breath with equal satisfaction, abiding to wait until the time for his meal has come. Patience is a virtue made unquestionable to this man, treated with the same respect as the ubiquity of scientific theory, or even a God. 
+Some time along, the man awakens with a stiff groan. His eyes slit open ever so slightly so as to keep them from the sting of the cold. He can smell the seal meat, as it has now become a mild stew. He takes a deep breath in through his nose, filling his lungs with fresh oxygenation tinged with the smell of his developing broth. 
+
+---
+
+
+He holds for but a moment and smiles at the filling of his lungs, and while still holding contemplates his meal that is in preparation with great eagerness. He then releases his breath with equal satisfaction, abiding to wait until the time for his meal has come. Patience is a virtue made unquestionable to this man, treated with the same respect as the ubiquity of scientific theory, or even a God. 
 
 ---
 
@@ -89,7 +98,48 @@ Shortly after he would tune in enough to make out words, and soon enough he woul
 
 ---
 
-Byrd’s messages were highly utilitarian in nature. Byrd referred to the man as ‘Rescue Scout’ or for short, simply ‘Scout’. He would make note of various features of the landscape, and tell of the oasis. He would share details regarding various advancements in knowledge that he had made there up in his encampment, research projects and the like.
+Byrd’s messages were highly utilitarian in nature. Byrd referred to adventuring man as ‘Rescue Scout’ or for short, sometimes simply ‘Scout’. He would make note of various features of the landscape, and tell his scout of the oasis. He would share details regarding various advancements in knowledge that he had made there up in his encampment, research projects and the like. The first few exchanges they had once our scout got in range went something like this:
+
+“Copy out, this is a member of the NHCP making my third broadcast. Is there anyone out there?”
+Silence, then –  
+“You’ve made contact, scouter. NHCP you say?”
+“Oh, uh, yes sir. New Hyperboreans Common Project. A, uhm… science expedition.”
+“Hyperboreans?”
+“Northern peoples in short, yes sir.”
+“Hmph.”
+“Do you know the name?”
+“…”
+And that was all.
+
+The next day:
+“Copy out, this is a member of the NHCP making my fourth broadcast. Is there anyone out there? …The sir from yesterday, perhaps?”
+As before, a moment passed.
+“I copy, scouter.”
+“Glad to hear another voice. And could I ask your coordinates?”
+A laugh crackled through the line.
+“I don’t think you’d believe me if I told you that one.”
+“A name then?”
+Another chuckle, followed snidely by “Call me… Santa Claus!”
+“Very funny, contact. And so then I’d assume your location would be…”
+“THE NORTH POLE! Oh, you are a good one, aren’t you?”
+The scouter chuckled a bit, then pressed in the radio switch and said “That’s what my momma says, sir.”
+“I bet she does, scouter. I do bet she does.”
+“Sir, may I ask a question?”
+“Ask away, you funny kid.”
+“Have you heard of an Admiral Byrd on any radio channel out here?”
+The line was silent for a bit.
+“Tell ya what scouter, you play any chess?”
+“Yes sir, I was on the team in High School.”
+“And you know chess notation?”
+“Yes sir I do.”
+“Alright then… e4.”
+“Well sir… e5. I assume we’re…playing for info here?”
+“You’re clever too! Your momma must be a proud one, scouter!”
+“I’d hope so, sir.”
+“If you win kiddo, I’ll let you in on as much as you’d like about the whereabouts of your Admiral Byrd.”
+
+And of course that night he went on to win, at which point the Admiral spilled the beans and amazed the scouter with stories of a lush oasis filled with mammoths and creatures far, far more fantastical than that. Undiscovered dinosaurs, fruits that were nourishing beyond belief, trees that walked and monkeys that talked! – provided they were given a proper education in the English language, of course. 
+
 
 ---
 
@@ -121,7 +171,7 @@ There was no answer, though he waited minutes. He periodically transmitted quick
 ‘Admiral, are you present?’
 ‘Admiral Byrd, what is your status?’
 
-Then he noticed that his radio died. He scrambled to grab his battery pack from outside the igloo, and in the process of doing so kicked a substantial amount of snow into his sleeping bag. He hooked up the pack to his radio system, which lit back up immediately.
+Then he noticed that his radio had died. He scrambled to grab his battery pack from outside the igloo, and in the process of doing so kicked a substantial amount of snow into his sleeping bag. He hooked up the pack to his radio system, which lit back up immediately.
 
 ‘Admiral, do you copy?’
 Nothing.
@@ -129,6 +179,64 @@ He tensely contemplated the situation, then gave a message:
 
 ‘I’m coming for you, Admiral. Your research will not be in vain.’
 
-still nothing.
+Still nothing.
 
 ‘Admiral, I’m now turning off my radio so as to preserve solar power. Our next contact will be in the encampment. From there, we can exchange info on the bogies and develop a plan. Over and out.’
+
+He hung up his radio set immediately, not giving even a moment for an answer. There wasn’t time to waste. He had his mission, and he had his plan: move. Now all that was left was execution.
+
+Go to sled.
+Load gear:
+Solar pack,
+radio,
+sleeping bag with clothes, 
+hot plate,
+and the stew,
+stowed quickly but carefully into a thermos.
+
+Sled is loaded.
+Push sled.
+Slip foot, find traction, push again.
+Grip wood, gloves tight. 
+Gain speed. 
+Begin to run.
+and run,
+and run, 
+and now a sprint,
+and now a jump,
+and now we’re sledding.
+Sled hits a hill.
+jump off, 
+push
+and push,
+and struggle like Sisyphus,
+and struggle some more.
+Halfway up,
+feet slip.
+*Don’t fall*.
+Catch, and keep on.
+Keep the pressure,
+keep the tension.
+This is it,
+that’s it now.
+Now we’re there,
+at the top of the hill. 
+
+With a moment of grand release, take that final step to push the sled over the edge of that hill, close the eyes for just a second, freedom, liberation, wind through the hair…
+
+Hit the bottom. Open eyes. Sled is sliding along the tundra like a watercraft through solemn waters. Keep it going with a push here or there, until there is another hill.
+
+And then it repeats.
+And repeats.
+And repeats once more.
+
+… And now it is time to check coordinates.
+And the coordinates… match the Admirals.
+What? How?
+
+He checks again, and again they match. 
+
+Where is the oasis? The research base, Hyperborea! Where is it? It must be here, mustn’t it? Where was the Admiral?
+
+“Admiral!” The scouter shouts.
+“ADMIRAL!” He shouts louder, to no response.

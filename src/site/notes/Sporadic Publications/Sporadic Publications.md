@@ -43,8 +43,12 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 [[Sporadic Publications/Works/Poetry/Write to Fight\|Write to Fight]]
 [[Solarity\|Solarity]]
 [[A Plea For Greatness\|A Plea For Greatness]]
+[[In The End\|In The End]]
 ### <u>Short Stories</u>
 [[The Polar Man\|The Polar Man]]
 [[Written Works/WIP/The Tweed Twins/The Tweed Twins\|The Tweed Twins]]
+
+###### [[Notable Journal Entries\|Notable Journal Entries]]
+
 
 <div class="page-break" style="page-break-before: always;"></div>

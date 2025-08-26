@@ -22,7 +22,7 @@ As of writing this, I am 21. I spend a decent chunk of my time at home and have 
 In progress:
 - [[Sporadic Publications/Works/Essays/Essays On Invisibilities/Essays on Invisibilities\|Essays on Invisibilities]]
 - [[Written Works/WIP/DBATS/Daylight By A Thousand Stars\|Daylight By A Thousand Stars]]
-
+- [[My Favorite Journal Entries\|My Favorite Journal Entries]]
 Complete:
 [empty list]
 

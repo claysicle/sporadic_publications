@@ -41,14 +41,14 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 [[Sporadic Publications/Works/Poetry/Godfull\|Godfull]]
 [[Sporadic Publications/Works/Poetry/The Town On A Hill\|The Town On A Hill]]
 [[Sporadic Publications/Works/Poetry/Write to Fight\|Write to Fight]]
+[[Internet Poetry\|Internet Poetry]]
 [[Solarity\|Solarity]]
 [[A Plea For Greatness\|A Plea For Greatness]]
 [[In The End\|In The End]]
+[[egoless\|egoless]]
 ### <u>Short Stories</u>
 [[The Polar Man\|The Polar Man]]
 [[Written Works/WIP/The Tweed Twins/The Tweed Twins\|The Tweed Twins]]
-
-###### [[Notable Journal Entries\|Notable Journal Entries]]
 
 
 <div class="page-break" style="page-break-before: always;"></div>

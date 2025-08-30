@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/The Polar Man/"}
 ---
 
+
 # The Polar Man
 
 
@@ -111,6 +112,9 @@ Silence, then –
 “…”
 And that was all.
 
+---
+
+
 The next day:
 “Copy out, this is a member of the NHCP making my fourth broadcast. Is there anyone out there? …The sir from yesterday, perhaps?”
 As before, a moment passed.
@@ -137,6 +141,8 @@ The line was silent for a bit.
 “You’re clever too! Your momma must be a proud one, scouter!”
 “I’d hope so, sir.”
 “If you win kiddo, I’ll let you in on as much as you’d like about the whereabouts of your Admiral Byrd.”
+
+---
 
 And of course that night he went on to win, at which point the Admiral spilled the beans and amazed the scouter with stories of a lush oasis filled with mammoths and creatures far, far more fantastical than that. Undiscovered dinosaurs, fruits that were nourishing beyond belief, trees that walked and monkeys that talked! – provided they were given a proper education in the English language, of course. 
 
@@ -240,3 +246,18 @@ Where is the oasis? The research base, Hyperborea! Where is it? It must be here,
 
 “Admiral!” The scouter shouts.
 “ADMIRAL!” He shouts louder, to no response.
+
+
+And then there is a crackle from his radio.
+
+“Copy out, this is artic scout. I'm on an expedition headed north. Does anyone read? Over.”
+
+He picked up his radio, pressed the toggle and began to speak.
+
+“Copy.”
+
+“What is your location?”
+
+A moment’s pause.1
+
+“Have you ever heard of Hyperborea?”

@@ -36,16 +36,20 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 	**Progress**: This is nowhere near being finished and by the time I get to it I may find it completely uninteresting. That being said, I currently look forward to writing it.
 
 ### <u>Assorted Poetry</u>
-[[Sporadic Publications/Works/Poetry/The Unsaid\|The Unsaid]]
+Theological:
+[[The Missing Mind\|The Missing Mind]]
 [[Sporadic Publications/Works/Poetry/The Man Who Sets The Anchor Firm\|The Man Who Sets The Anchor Firm]]
 [[Sporadic Publications/Works/Poetry/Godfull\|Godfull]]
 [[Sporadic Publications/Works/Poetry/The Town On A Hill\|The Town On A Hill]]
+[[In The End\|In The End]]
+[[Solarity\|Solarity]]
+
+Misc.
+[[Sporadic Publications/Works/Poetry/The Unsaid\|The Unsaid]]
 [[Sporadic Publications/Works/Poetry/Write to Fight\|Write to Fight]]
 [[Internet Poetry\|Internet Poetry]]
-[[Solarity\|Solarity]]
 [[A Plea For Greatness\|A Plea For Greatness]]
-[[In The End\|In The End]]
-[[egoless\|egoless]]
+
 ### <u>Short Stories</u>
 [[The Polar Man\|The Polar Man]]
 [[Written Works/WIP/The Tweed Twins/The Tweed Twins\|The Tweed Twins]]

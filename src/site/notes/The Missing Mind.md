@@ -24,7 +24,7 @@ In all their striving,
 What have they found?
 
 Is there principle
-above all
+Above all
 Arrived upon
 In immanence?
 

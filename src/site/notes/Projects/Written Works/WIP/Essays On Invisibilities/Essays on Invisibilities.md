@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Essays on Invisibilities/"}
+---
+
+>*A Collection By [[Projects/Sporadic Publications/Authors/Claysicle\|Claysicle]]*
+
+
+*“Once I planned to write a book of poems entirely about things in my pockets. But I found it would be too long; and the age of the great epics is past.”*
+
+<font color="#4f81bd">~ GK Chesterton</font>
+
+--- 
+Next Up:
+[[Projects/Written Works/WIP/Essays On Invisibilities/Table Of Contents\|Table Of Contents]]
+<div class="page-break" style="page-break-before: always;"></div>
+

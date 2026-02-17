@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/A Portrait Of Kierkegaard/"}
 ---
 
-
 # Refusing The Wandering Soul
 
 Finding The King a man most horrid,

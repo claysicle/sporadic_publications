@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/A Portrait Of Kierkegaard/"}
 ---
 
-# A Portrait Of Kierkegaard //*Refusing The Wandering Soul*
+
+# Refusing The Wandering Soul
 
 Finding The King a man most horrid,
 I ventured ‘cross Plains of Deceit,

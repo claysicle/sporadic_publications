@@ -43,6 +43,8 @@ Theological:
 [[Projects/Sporadic Publications/Works/Poetry/The Town On A Hill\|The Town On A Hill]]
 [[Personal/Just for fun/poetic/In The End\|In The End]]
 [[Personal/Just for fun/poetic/Solarity\|Solarity]]
+[[Personal/Just for fun/poetic/A Portrait Of Kierkegaard\|A Portrait Of Kierkegaard]]
+
 
 Misc.
 [[Projects/Sporadic Publications/Works/Poetry/The Unsaid\|The Unsaid]]
@@ -51,7 +53,7 @@ Misc.
 [[Personal/Just for fun/poetic/A Plea For Greatness\|A Plea For Greatness]]
 
 ### <u>Short Stories</u>
-[[Projects/Written Works/WIP/The Polar Man - Slideshow/The Polar Man\|The Polar Man]]
+[[Projects/Written Works/WIP/The Polar Man/The Polar Man\|The Polar Man]]
 [[Projects/Written Works/WIP/The Tweed Twins/The Tweed Twins\|The Tweed Twins]]
 
 ### <u>My Favorite Journal Entries</u>

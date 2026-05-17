@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/A Plea For Greatness/"}
+{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/A Plea For Greatness/","dg-note-properties":{}}
 ---
 
 

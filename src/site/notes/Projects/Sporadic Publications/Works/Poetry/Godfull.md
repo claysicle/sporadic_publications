@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Works/Poetry/Godfull/"}
+{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Works/Poetry/Godfull/","dg-note-properties":{}}
 ---
 
 [[Personal/Periodic Notes/daily notes/2025 daily/2025-06-12\|2025-06-12]]

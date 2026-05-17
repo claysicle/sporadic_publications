@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/In The End/"}
+{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/In The End/","dg-note-properties":{}}
 ---
 
 In the end

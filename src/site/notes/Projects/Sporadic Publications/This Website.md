@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/This Website/"}
+{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/This Website/","dg-note-properties":{}}
 ---
 
 

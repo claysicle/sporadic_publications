@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/Solarity/"}
+{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/Solarity/","dg-note-properties":{}}
 ---
 
 [[Personal/Periodic Notes/daily notes/2025 daily/2025-08-14\|2025-08-14]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Kindness/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Kindness/","dg-note-properties":{}}
 ---
 
 > *In the series on [[Projects/Written Works/WIP/Essays On Invisibilities/Virtue\|Virtue]]*

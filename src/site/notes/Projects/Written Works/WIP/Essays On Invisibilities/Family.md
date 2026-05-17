@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Family/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Family/","dg-note-properties":{}}
 ---
 
 > *In [[Projects/Written Works/WIP/Essays On Invisibilities/Invisibilities Of People\|Invisibilities Of People]]*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Strength/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Strength/","dg-note-properties":{}}
 ---
 
 > *In the series on [[Projects/Written Works/WIP/Essays On Invisibilities/Virtue\|Virtue]]*

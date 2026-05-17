@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/this/"}
+{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/this/","dg-note-properties":{}}
 ---
 
 You clicked a link!

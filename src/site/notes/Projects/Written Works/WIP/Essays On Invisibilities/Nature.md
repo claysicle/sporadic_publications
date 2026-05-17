@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Nature/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Nature/","dg-note-properties":{}}
 ---
 
 > *In [[Projects/Written Works/WIP/Essays On Invisibilities/Invisibilities Elsewhere\|Invisibilities Elsewhere]]*

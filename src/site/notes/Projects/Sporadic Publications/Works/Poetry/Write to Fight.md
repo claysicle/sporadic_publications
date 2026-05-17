@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Works/Poetry/Write to Fight/"}
+{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Works/Poetry/Write to Fight/","dg-note-properties":{}}
 ---
 
 [[Personal/Periodic Notes/daily notes/2025 daily/2025-04-28\|2025-04-28]]

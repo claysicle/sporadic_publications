@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/A Portrait Of Kierkegaard/"}
+{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/A Portrait Of Kierkegaard/","dg-note-properties":{}}
 ---
 
 # Refusing The Wandering Soul

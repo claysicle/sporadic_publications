@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Tweed Twins/Forewarnings and Introduction/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Tweed Twins/Forewarnings and Introduction/","dg-note-properties":{}}
 ---
 
 

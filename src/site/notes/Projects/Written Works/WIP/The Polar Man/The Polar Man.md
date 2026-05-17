@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Polar Man/The Polar Man/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Polar Man/The Polar Man/","dg-note-properties":{}}
 ---
 
 # The Polar Man
-   ![77662242378__C62BDFAA-1A2F-4DFE-9852-6117336A8277.jpg|600](/img/user/Utility/Attachments/77662242378__C62BDFAA-1A2F-4DFE-9852-6117336A8277.jpg)
+   ![77662242378__C62BDFAA-1A2F-4DFE-9852-6117336A8277.jpg\|600](/img/user/Utility/Attachments/77662242378__C62BDFAA-1A2F-4DFE-9852-6117336A8277.jpg)
 
 			Written By Clayton Sickler
 			Illustrations By Jerimiah Roberts

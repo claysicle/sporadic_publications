@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/The Missing Mind/"}
+{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/The Missing Mind/","dg-note-properties":{}}
 ---
 
 

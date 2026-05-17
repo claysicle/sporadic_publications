@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/Internet Poetry/"}
+{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/Internet Poetry/","dg-note-properties":{}}
 ---
 
 I went

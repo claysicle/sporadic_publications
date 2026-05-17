@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Works/Poetry/The Man Who Sets The Anchor Firm/"}
+{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Works/Poetry/The Man Who Sets The Anchor Firm/","dg-note-properties":{}}
 ---
 
 [[2025-01-07\|2025-01-07]]

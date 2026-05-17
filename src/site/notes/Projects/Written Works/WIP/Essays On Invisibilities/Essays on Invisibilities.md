@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Essays on Invisibilities/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/Essays On Invisibilities/Essays on Invisibilities/","dg-note-properties":{}}
 ---
 
 >*A Collection By [[Projects/Sporadic Publications/Authors/Claysicle\|Claysicle]]*

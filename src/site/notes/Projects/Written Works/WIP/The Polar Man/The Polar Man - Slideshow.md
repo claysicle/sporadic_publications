@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Polar Man/The Polar Man - Slideshow/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Polar Man/The Polar Man - Slideshow/","dg-note-properties":{}}
 ---
 
 

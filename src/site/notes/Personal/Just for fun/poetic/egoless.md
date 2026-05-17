@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/egoless/"}
+{"dg-publish":true,"permalink":"/Personal/Just for fun/poetic/egoless/","dg-note-properties":{}}
 ---
 
 ego made egoless

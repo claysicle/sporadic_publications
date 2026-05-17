@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Sporadic Publications/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Sporadic Publications/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 

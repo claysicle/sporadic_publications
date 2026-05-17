@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Works/Poetry/The Town On A Hill/"}
+{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Works/Poetry/The Town On A Hill/","dg-note-properties":{}}
 ---
 
 [[Personal/Periodic Notes/daily notes/2025 daily/2025-05-19\|2025-05-19]]

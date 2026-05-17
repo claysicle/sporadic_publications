@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Authors/Claysicle/"}
+{"dg-publish":true,"permalink":"/Projects/Sporadic Publications/Authors/Claysicle/","dg-note-properties":{}}
 ---
 
 

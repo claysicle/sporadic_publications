@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/DBATS/Daylight By A Thousand Stars/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/DBATS/Daylight By A Thousand Stars/","dg-note-properties":{}}
 ---
 
 

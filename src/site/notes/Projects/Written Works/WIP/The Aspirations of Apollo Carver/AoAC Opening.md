@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Aspirations of Apollo Carver/AoAC Opening/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Aspirations of Apollo Carver/AoAC Opening/","dg-note-properties":{}}
 ---
 
 ### The Death of Dionysius

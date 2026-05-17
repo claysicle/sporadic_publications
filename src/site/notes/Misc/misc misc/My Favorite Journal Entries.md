@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Misc/misc misc/My Favorite Journal Entries/"}
+{"dg-publish":true,"permalink":"/Misc/misc misc/My Favorite Journal Entries/","dg-note-properties":{}}
 ---
 
 

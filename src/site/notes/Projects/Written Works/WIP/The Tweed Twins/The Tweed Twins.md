@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Tweed Twins/The Tweed Twins/"}
+{"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Tweed Twins/The Tweed Twins/","dg-note-properties":{}}
 ---
 
 [front cover]

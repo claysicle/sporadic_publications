@@ -9,6 +9,6 @@ I don’t really understand everything that is going on underneath the hood here
 There are various other ways to publish written material online, but nothing else that I have found is quite as versatile as this combination of tools, and for that I am incredibly grateful to have them.
 
 Current web theme is:
-Everforest Enchanted
+Border
 (Community theme for Obsidian)
 

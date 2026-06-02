@@ -37,6 +37,7 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 
 ### <u>Assorted Poetry</u>
 Theological:
+[[Misc/To Be Sorted/That Dead God\|That Dead God]]
 [[Personal/Just for fun/poetic/The Missing Mind\|The Missing Mind]]
 [[Projects/Sporadic Publications/Works/Poetry/The Man Who Sets The Anchor Firm\|The Man Who Sets The Anchor Firm]]
 [[Projects/Sporadic Publications/Works/Poetry/Godfull\|Godfull]]

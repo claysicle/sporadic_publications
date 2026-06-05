@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/Projects/Written Works/WIP/The Aspirations of Apollo Carver/The Death of Dionysus/","dg-note-properties":{}}
 ---
 
-### The Death of Dionysus
-
 Indulgences
 and 
 little deaths,

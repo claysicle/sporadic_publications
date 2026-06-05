@@ -16,6 +16,10 @@
 [[Personal/Just for fun/poetic/Solarity\|Solarity]]
 [[Personal/Just for fun/poetic/In The End\|In The End]]
 
+**Novel Related:**
+[[Personal/Just for fun/poetic/The Sun In Our Eyes\|The Sun In Our Eyes]]
+[[Projects/Written Works/WIP/The Aspirations of Apollo Carver/The Death of Dionysus\|The Death of Dionysus]]
+
 **Misc.**
 [[Projects/Sporadic Publications/Works/Poetry/The Unsaid\|The Unsaid]]
 [[Projects/Sporadic Publications/Works/Poetry/Write to Fight\|Write to Fight]]

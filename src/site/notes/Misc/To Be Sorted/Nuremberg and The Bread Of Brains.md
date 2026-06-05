@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/Misc/To Be Sorted/Nuremberg and The Bread Of Brains/","dg-note-properties":{}}
 ---
 
+
+
 I watched a movie about Nazis today. It was ‘*Nuremberg*’, starring Rami Malek as Dr. Kelly, an American psychiatrist with the unenviable task of speaking with Hermann Goring (with two dots over the O, which I do not know how to type) who was second among the Nazi High Command. It follows his relationship to Goring and tracks the growth of a friendship between them as a focus, with the looming and inevitable destruction of that fondness being a great source of cinematic drama.
 
 It struck me while watching to consider a group not portrayed much within the movie, which was the German public. I often wonder how much the average German citizen knew of the concentration camps and how much was unknown to them. I also wonder how much moral responsibility the average German citizen should be bequeathed for the tragedy, given that the alternative to deference to the regime was to attempt some sort of protest, which would undoubtedly be received with something of an illiberal response from any sitting figure, most likely amounting to the death of any dissenting voice. ‘Flee the country then’ is a common response to the moral quandary of the un-nazified German, but I find that this to be likewise something of a shirking of civil responsibility. 

@@ -56,11 +56,12 @@ and ages for the day
 when the Bourbon flows 
 Once more.
 
-And when that Bourbon flows –
+When that Bourbon flows –
 the goosebumps return,
 My liveliness revived!
 
 When that Bourbon flows –
+although vision blurred,
 I feel myself alive.
 
 Oh, that bitter bottle!

@@ -36,7 +36,7 @@ Another novel, thematically Moralistic. The story centers on a man who aspires t
 	**Progress**: This is nowhere near being finished and by the time I get to it I may find it completely uninteresting. That being said, I currently look forward to writing it.
 
 ### [[Misc/To Be Sorted/Assorted Poetry\|Assorted Poetry]]
-I write poetry! This is where I would recommend going if you want to get a basic understanding for how I see the world… or if you just like poetry. Updated whenever I write something new that I deem worthy of sharing. I also occasionally drop an older piece in.
+I write poetry! This is where I would recommend going if you want to get a basic understanding for how I see the world… or if you just like poetry. Updated whenever I write something new that I deem worthy of sharing. I also occasionally drop an older piece in. This is really some of my favorite writing, and the stuff that makes me happiest when I do it well. I also have an interest in building my novels around certain poetry that I write, so these are cool if you like that too!
 
 ### <u>Short Stories</u>
 [[Projects/Written Works/WIP/The Polar Man/The Polar Man\|The Polar Man]]

@@ -13,6 +13,7 @@
 [[Personal/Just for fun/poetic/A Plea For Greatness\|A Plea For Greatness]]
 [[Personal/Just for fun/poetic/The Missing Mind\|The Missing Mind]]
 [[Misc/To Be Sorted/Lament Of The Faustian\|Lament Of The Faustian]]
+[[Misc/To Be Sorted/The Cold Machine\|The Cold Machine]]
 [[Personal/Just for fun/poetic/Solarity\|Solarity]]
 [[Personal/Just for fun/poetic/In The End\|In The End]]
 

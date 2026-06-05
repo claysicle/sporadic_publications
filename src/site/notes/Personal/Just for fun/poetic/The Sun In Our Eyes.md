@@ -41,6 +41,5 @@ And brought them back into the light.
 
 Back with The Sun,
 The many danced away,
-And With Whom The Sun Had Stayed… 
-
+And With Whom The Sun Had Stayed
 Sang songs of Its brilliance once more!
